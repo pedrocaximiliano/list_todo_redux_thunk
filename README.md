@@ -16,6 +16,6 @@ basically this application is a list where you can add and remove items. with re
 
 - redux-thunk
 
-# Note
+### Note
 the structure is not suitable for real application
 
